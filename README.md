@@ -1,10 +1,10 @@
 # circle-packing-art-visualization
 Python based customizable circle packing and visualization using pygame library, apply to image or text.
 
-### Text
+### Image
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/pthavarasa/circle-packing-art-visualization/raw/master/images/python_logo.png"><img src="https://github.com/pthavarasa/circle-packing-art-visualization/raw/master/images/python_logo.png" style="max-width:100%;" width="400px"></a><a target="_blank" rel="noopener noreferrer" href="https://github.com/pthavarasa/circle-packing-art-visualization/raw/master/images/circle_packing_image.png"><img src="https://github.com/pthavarasa/circle-packing-art-visualization/raw/master/images/circle_packing_image.png" style="max-width:100%;" width="400px"></a></p>
 
-### Image
+### Text
 ![](images/circle_packing_text.png)
 ![](images/circle_packing_text2.png)
 
